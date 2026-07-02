@@ -1,7 +1,7 @@
 ---
 title:          "Learning maximum absolute meaning through reasoning about speaker intentions"
 date:           2021-06-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Language Learning"
 pub_date:       "2021"
 abstract: >-

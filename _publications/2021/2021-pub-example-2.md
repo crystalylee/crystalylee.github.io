@@ -1,7 +1,7 @@
 ---
 title:          "Action anticipation based on an agent's epistemic state in toddlers and adults"
 date:           2021-06-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Child development"
 pub_date:       "2021"
 abstract: >-

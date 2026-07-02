@@ -1,7 +1,7 @@
 ---
 title:          "How executive functioning, sentence processing, and vocabulary are related at 3 years of age"
 date:           2023-05-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Journal of Experimental Psychology"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
