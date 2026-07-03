@@ -15,7 +15,7 @@ authors:
   - Crystal Lee
   - Casey Lew-Williams
 links:
-  #Code: https://github.com/luost26/academic-homepage
+  Code: https://osf.io/ke69t/overview?view_only=19a216425ac74884b26991da4d091b36
   Paper: https://www.sciencedirect.com/science/article/abs/pii/S0885201422001022
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
