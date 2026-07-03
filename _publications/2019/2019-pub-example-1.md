@@ -5,7 +5,7 @@ selected:       true
 pub:            "2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
 pub_date:       "2019"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  Over 90% of deaf children are born to hearing parents who are not fluence in sign language. This mismatch can lead to delayed exposure, and ultimately childrens' delayed language acquisition. In this team, I acted as a SME expert in the development of a visual augmentation prototype that allows hearing parents to just-in-time ASL to their deaf children.
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Ashley Tenesaca

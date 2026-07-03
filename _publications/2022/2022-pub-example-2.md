@@ -9,7 +9,7 @@ pub:            "Proceedings of the Annual Meeting of the Cognitive Science Soci
 pub_date:       "2022"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  In a series of experiments, I determined three variables the influence words we say: word frequency, priming, and time pressure. By identifying these factors, I demonstrate that speech production is fundamentally a "good-enough" process, where what humans say is pushed and pulled by multiple dimensions. 
 cover:          /assets/images/covers/css.png
 authors:
   - Crystal Lee
