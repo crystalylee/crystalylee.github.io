@@ -5,7 +5,7 @@ selected:       true
 pub:            "Duolingo Research Report"
 pub_date:       "2025"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  This is the furst study to demonstrate the actual learning value of the AI-enabled Video Call with Lily feature: where Duolingo users can practice speaking with Lily (powered by Open AI GPT). Using a randomized control trial, we found that Duolingo users who engaged with the Video Call with Lily feature at least 2x a day for 30 days improved their speaking abilities significantly more compared to users who did not use this feature.
 cover:          /assets/images/covers/cover_video-call.png
 authors:
 - Audrey Kittredge
