@@ -6,7 +6,7 @@ pub:            "Language Learning"
 pub_date:       "2021"
 abstract: >-
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/language_learning.jpg
 authors:
 - Crystal Lee
 - Chigusa Kurumada
